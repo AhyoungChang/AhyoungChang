@@ -12,9 +12,9 @@
 - 프로젝트 이름 — 한 줄 설명
 
 ## 📫 Contact
-- Email: ahyoung@utexas.edu
-- LinkedIn(https://www.linkedin.com/in/ahyoung-chang-9849a1234/)
-- Google Scholar(https://scholar.google.com/citations?user=9LaDAacAAAAJ&hl=en)
+- [Email](ahyoung@utexas.edu)
+- [LinkedIn](https://www.linkedin.com/in/ahyoung-chang-9849a1234/)
+- [Google Scholar](https://scholar.google.com/citations?user=9LaDAacAAAAJ&hl=en)
 <!--
 **AhyoungChang/AhyoungChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
