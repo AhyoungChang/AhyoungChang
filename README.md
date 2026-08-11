@@ -1,8 +1,7 @@
 ## Welcome to Ahyoung's Portfolio 👋
-
-PhD Student in Community and Regional Planning @ UT Austin
-Graduate Research Assistant @ Urban Information Lab
-Prospective Research/Applied Scientist
+- PhD Student in Community and Regional Planning @ UT Austin
+- Graduate Research Assistant @ Urban Information Lab
+- Prospective Research/Applied Scientist
 
 ## 🛠 Tech Stack
 - Python
