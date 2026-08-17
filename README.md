@@ -12,6 +12,8 @@
 1. **[HousiSense](https://github.com/AhyoungChang/HousiSense)** 
 - Spatial-cognitive retrieval for housing search. Combines query-dependent proximity constraints in PostGIS with a perceived quietness field derived from guest reviews, validated against 311 noise complaints.
 `Python` `PostGIS` `pgvector`
+2. **[Quality of Place](https://github.com/AhyoungChang/Quality_of_Place_Analysis_LLM)**
+- Vision-language scoring of urban environment imagery against Vitruvian and Lynch frameworks, validated against guest review language across ten cities worldwide. `Python` `BERTopic` `VLM`
 
 ## 📫 Contact
 - [Email](mailto:ahyoung@utexas.edu)
