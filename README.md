@@ -9,7 +9,9 @@
 - GIS (ArcGIS, QGIS)
 
 ## 🚀 Projects
-- 프로젝트 이름 — 한 줄 설명
+1. **[HousiSense](https://github.com/AhyoungChang/HousiSense)** 
+- Spatial-cognitive retrieval for housing search. Combines query-dependent proximity constraints in PostGIS with a perceived quietness field derived from guest reviews, validated against 311 noise complaints.
+`Python` `PostGIS` `pgvector`
 
 ## 📫 Contact
 - [Email](mailto:ahyoung@utexas.edu)
